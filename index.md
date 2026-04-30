@@ -121,6 +121,7 @@ end
 * {{ post.date | date_to_string }} - [{{ post.title }}]({{ post.url }})
 {% endfor %}
 
+[2026-05-01](./_post/2026_05_01_my_first_blog.md)
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
